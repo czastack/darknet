@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>029</filename>
+  <path>/work/CT142/ai/final/create-voc2007-dataset/JPEGImages/029.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>448</width>
+    <height>280</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>216</xmin>
+      <ymin>6</ymin>
+      <xmax>387</xmax>
+      <ymax>280</ymax>
+    </bndbox>
+  </object>
+</annotation>
